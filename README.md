@@ -11,7 +11,7 @@ This project provides Python scripts to automate the creation of a structured di
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/file-organizer.git
+   git clone https://github.com/lensstrags/file-organizer.git
    cd file-organizer
    
 
